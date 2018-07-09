@@ -13,4 +13,6 @@ package hu.progmasters.beleriand;
 
 public class DummyTest {
 
+    // Just needed a file, because in GIT cannot be empty directory.
+
 }

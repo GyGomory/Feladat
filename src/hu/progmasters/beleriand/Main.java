@@ -11,6 +11,9 @@
 
 package hu.progmasters.beleriand;
 
-public class Dummy {
+public class Main {
 
+    public static void main(String[] args) {
+        // TODO impl
+    }
 }
